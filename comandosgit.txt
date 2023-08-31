@@ -1,0 +1,14 @@
+Inicializar repositório local
+> git init
+
+Criar nova branch
+> git branch -M main
+
+Verificar status
+> git status
+
+Associar git local a um repositório remoto
+> git remote add origin https://seugit/seurepositorio
+
+Verificar qual é o repositório remoto
+> git remote -v
